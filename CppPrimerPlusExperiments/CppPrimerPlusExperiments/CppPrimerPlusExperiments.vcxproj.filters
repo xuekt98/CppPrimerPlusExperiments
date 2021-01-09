@@ -13,5 +13,21 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="头文件\Chapter4">
+      <UniqueIdentifier>{1acecf4d-ec17-4cff-9fe4-438f73d043cc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GetAndGetlineExperiment.h">
+      <Filter>头文件\Chapter4</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter4.h">
+      <Filter>头文件\Chapter4</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
